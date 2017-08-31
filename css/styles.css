@@ -9,3 +9,6 @@ button {
   border-bottom: 6px;
   margin-bottom: 8px;
 }
+.jumbotron {
+  background-image: url("../img/friends2.jpg");
+}

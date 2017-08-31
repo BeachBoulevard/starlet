@@ -13,7 +13,7 @@ This is a pig dice game, a kind of mimic to the original pig dice game concepted
 
 ## Deployment
 
-site was deployed to beachboulevard.github.io/piggy
+site was deployed to beachboulevard.github.io/starlet
 
 ## Built With
 
