@@ -5,3 +5,7 @@
 button {
   width: 150px;
 }
+.row {
+  border-bottom: 6px;
+  margin-bottom: 8px;
+}
