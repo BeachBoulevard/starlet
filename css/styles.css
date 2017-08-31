@@ -12,3 +12,17 @@ button {
 .jumbotron {
   background-image: url("../img/friends2.jpg");
 }
+h1 {
+  font-family: cursive ;
+  : #ECF0F1 ;
+  font-weight: 900 ;
+}
+
+.forrows {
+  background-image: url("../img/space.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+}
+body {
+  margin : ;
+}
