@@ -12,6 +12,7 @@ button {
 .jumbotron {
   background-image: url("../img/friends2.jpg");
   color: #283747;
+  margin:auto;
 }
 h1 {
   font-family: cursive ;
@@ -20,7 +21,7 @@ h1 {
 }
 
 .forrows {
-  background-image: url("../img/spac.jpg");
+  background-image: url("../img/crystal.jpg");
   height: 500px;
   background-repeat: no-repeat;
 }
