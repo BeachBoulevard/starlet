@@ -21,7 +21,7 @@ site was deployed to beachboulevard.github.io/starlet
 ## Contributing
 
 * Tayo Carl
-* Moringa School
+
 
 ## Authors
 
