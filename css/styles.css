@@ -21,10 +21,14 @@ h1 {
 }
 
 .forrows {
-  background-image: url("../img/crystal.jpg");
+  background-image: url("../img/city.jpg");
   height: 500px;
   background-repeat: no-repeat;
 }
 body {
   margin : ;
+}
+.buttonnxt {
+  background : #900C3F;
+
 }

@@ -4,8 +4,6 @@ STARLET
 
 ## Project details
 
-This is a pig dice game, a kind of mimic to the original pig dice game concepted by  John Scarne in 1945
-
 ### Prerequisites
 
 * Browser
