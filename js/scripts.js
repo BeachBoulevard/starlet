@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 
 $("button").click(function(){
-  
+  $('#rowa').show(1000);
 
 })
 
