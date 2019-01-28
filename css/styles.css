@@ -8,7 +8,9 @@ button {
 .row {
   border-bottom: 6px;
   margin-bottom: 8px;
+  
 }
+
 .jumbotron {
   background-image: url("../img/friends2.jpg");
   color: #283747;

@@ -5,7 +5,8 @@ $(document).ready(function(){
 
 
 $("button").click(function(){
-  $('#rowa').show(1000);
+  var random = Math.floor(Math.random() * $('#rowa').length);
+    $('#rowa').eq(random).show(1000);  
 
 })
 
