@@ -7,7 +7,7 @@ $(document).ready(function(){
 $("button").click(function(){
   var random = Math.floor(Math.random() * $('.flexContainer2').length);
     $('.flexContainer2').eq(random).show(1000).hide(1000);  
-
+    
 })
 
 

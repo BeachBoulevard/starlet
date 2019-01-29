@@ -20,6 +20,7 @@ button {
   background-image: url("../img/friends2.jpg");
   color: #283747;
   margin:auto;
+  width: auto;
 }
 h1 {
   font-family: cursive ;
@@ -28,12 +29,14 @@ h1 {
 }
 
 .forrows {
-  background-image: url("../img/city.jpg");
-  height: 500px;
-  background-repeat: no-repeat;
+ 
 }
 body {
-  margin : ;
+
+  background-image: url("../img/city.jpg");
+  height: auto;
+  width: 100%;
+  
 }
 .buttonnxt {
   background : #900C3F;
