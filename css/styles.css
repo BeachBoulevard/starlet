@@ -2,6 +2,11 @@
   display: flex;
   justify-content: center;
 }
+.flexContainer2 {
+  display: flex;
+  justify-content: center;
+}
+
 button {
   width: 150px;
 }
