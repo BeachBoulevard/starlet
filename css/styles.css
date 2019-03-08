@@ -22,20 +22,21 @@ button {
   margin:auto;
   width: auto;
 }
+
+
 h1 {
   font-family: cursive ;
   font-weight: 900 ;
 
 }
 
-.forrows {
- 
-}
+
 body {
 
   background-image: url("../img/city.jpg");
   height: auto;
   width: 100%;
+  
   
 }
 .buttonnxt {

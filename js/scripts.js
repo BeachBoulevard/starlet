@@ -2,6 +2,7 @@ $(document).ready(function(){
 
   $('button').delay(1100).hide().show(1000);
   $('.flexContainer2').delay(2100).hide(500);
+  alert("Press a button and see your luck");
 
 
 $("button").click(function(){
@@ -9,6 +10,8 @@ $("button").click(function(){
     $('.flexContainer2').eq(random).show(1000).hide(1000);  
     
 })
+
+
 
 
 
