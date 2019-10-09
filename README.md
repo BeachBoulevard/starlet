@@ -3,6 +3,7 @@
 STARLET
 
 ## Project details
+*  A randomizing game whereby the goal is to attain numbers or elements.
 
 ### Prerequisites
 
