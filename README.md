@@ -15,8 +15,8 @@ site was deployed to beachboulevard.github.io/starlet
 
 ## Built With
 
-* atom
-* chrome developer tools
+* Visual Studio
+* 
 
 ## Contributing
 
