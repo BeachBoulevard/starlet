@@ -43,3 +43,65 @@ body {
   background : #900C3F;
 
 }
+
+.dotx {
+  height: 131px;
+  width: 142px;
+  background: url("../img/legend_of_zelda_retro_neon-1366x768.jpg"), #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid rgba(122, 97, 66, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.dot1 {
+  height: 131px;
+  width: 142px;
+  background: url("../img/green_planet-1366x768.jpg"),  #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid rgba(122, 97, 66, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.dot2 {
+  height: 131px;
+  width: 142px;
+  background: url("../img/book.jpg"), #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid rgba(122, 97, 66, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.dot3 {
+  height: 131px;
+  width: 142px;
+  background: url("../img/legend_of_zelda_retro_neon-1366x768.jpg"), #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid rgba(122, 97, 66, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.dot4 {
+  height: 131px;
+  width: 142px;
+  background: url("../img/space.jpg"), #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid rgba(122, 97, 66, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.doty {
+  height: 131px;
+  width: 142px;
+  background: url("../img/videogames-1571950882098-8972.jpg"), #C4C4C4;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid rgba(122, 97, 66, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}

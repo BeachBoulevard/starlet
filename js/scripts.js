@@ -1,13 +1,13 @@
 $(document).ready(function(){
 
-  $('button').delay(1100).hide().show(1000);
+  $('span').delay(1100).hide().show(1000);
   $('.flexContainer2').delay(2100).hide(500);
-  alert("Press a button and see your luck");
+  // alert("Press a button and see your luck");
 
 
-$("button").click(function(){
+$("span").click(function(){
   var random = Math.floor(Math.random() * $('.flexContainer2').length);
-    $('.flexContainer2').eq(random).show(1000).hide(1000);  
+    $('.flexContainer2').eq(random).show(1000).hide(2000);  
     
 })
 
